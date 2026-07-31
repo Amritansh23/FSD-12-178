@@ -16,3 +16,8 @@ f3();
 console.log("end");
 }
 main();
+
+const f1=()=>{
+  console.log("hello f1"
+  )
+}
